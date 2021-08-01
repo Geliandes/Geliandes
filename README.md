@@ -11,9 +11,7 @@
   <img align="right" alt="Geliandes-yoda" src="https://media.tenor.com/images/b666a0531fdc06602fa3c844bc44e993/tenor.gif">
 </div>
   <br>
-  
-  
-  
+ 
   ##
  
 <div> 
@@ -22,6 +20,6 @@
   <a href="https://www.linkedin.com/in/paulo-geliandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/geliandes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">	</a>
  
-  ![Snake animation](https://github.com/Geliandes/Geliandes/blob/main/cobrinha.svg)
+ ![Snake animation](https://github.com/Geliandes/Geliandes/blob/main/cobrinha.svg)
  
 </div>
