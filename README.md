@@ -9,7 +9,7 @@
   <img align="center" alt="Geliandes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geliandes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geliandes-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Geliandes-C#" height="30" width="30" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67">
+  <img align="center" alt="Geliandes-C#" height="32" width="30" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67">
   
  </div>
 <h2 align="left">Stats 📊</h2>
