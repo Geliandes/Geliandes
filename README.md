@@ -1,15 +1,15 @@
   <div> <p align="left"><h2> Hi there, I'm Paulo Geliandes 👋 
-    <img align="right" alt="Geliandes-yoda" height="215em" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"></h2>
+    <img align="right" alt="Tanjiro Kamado" height="215em" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"></h2>
   🎓 Studying <b>Analysis and Systems Development</b> at <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
   </p>
   </div>
 
   <div style="display: inline_block"><h2 align="left">Skills 🔥</h2>
-  <img align="center" alt="Geliandes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geliandes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geliandes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Geliandes-C" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Geliandes-C#" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="Icon JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Icon CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Icon C" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img align="center" alt="Icon C#" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   
  </div>
 <h2 align="left">Stats 📊</h2>
