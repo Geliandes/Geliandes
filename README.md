@@ -1,5 +1,5 @@
   <div> <p align="left"><h2> Hi there, I'm Paulo Geliandes 👋 
-    <img align="right" alt="Geliandes-yoda" height="215em" src="https://i.gifer.com/CVwz.gif"></h2>
+    <img align="right" alt="Geliandes-yoda" height="215em" src="https://c.tenor.com/YWET5Xep3o0AAAAC/eren-snk.gif"></h2>
   🎓 Studying <b>Analysis and Systems Development</b> at <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
   </p>
   </div>
