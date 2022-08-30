@@ -10,6 +10,8 @@
   <img align="center" alt="Icon CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon C" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   <img align="center" alt="Icon C#" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+  <img align="center" alt="Icon NodeJS" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
   
  </div>
 <h2 align="left">Stats 📊</h2>
