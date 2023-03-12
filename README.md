@@ -35,6 +35,9 @@
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
     <img align="center" alt="React" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </a>
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+    <img align="center" alt="Java" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+  </a>
  </div>
  
 <h2 align="left">Stats 📊</h2>
