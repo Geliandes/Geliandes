@@ -15,7 +15,7 @@
     <img align="center" alt="Icon JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    </a>
   <a href="https://nodejs.org/pt-br/docs/">
-    <img align="center" alt="Icon NodeJS" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img align="center" alt="Icon NodeJS" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
   </a>
   <a href="https://www.typescriptlang.org/docs/">
     <img align="center" alt="Icon TypeScript" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
