@@ -8,35 +8,23 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </a>
-
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="Icon CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </a>
-
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="Icon JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    </a>
-  <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170">
-    <img align="center" alt="Icon C" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
-  </a>
-  
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
-    <img align="center" alt="Icon C#" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
-  </a>
-  
   <a href="https://nodejs.org/pt-br/docs/">
     <img align="center" alt="Icon NodeJS" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>
-  
   <a href="https://www.typescriptlang.org/docs/">
     <img align="center" alt="Icon TypeScript" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   </a>
-  
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
     <img align="center" alt="React" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </a>
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-    <img align="center" alt="Java" height="32" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+  <a href="[https://pt-br.reactjs.org/docs/getting-started.html](https://nextjs.org/)">
+    <img align="center" alt="Next" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   </a>
  </div>
  
