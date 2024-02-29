@@ -4,7 +4,7 @@
   </p>
   </div>
 
-  <div style="display: inline_block"><h2 align="left">Skills 🔥</h2>
+  <div><h2 align="left">Skills 🔥</h2>
   <a style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </a>
