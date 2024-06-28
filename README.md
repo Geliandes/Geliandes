@@ -5,25 +5,25 @@
   </div>
 
   <div><h2 align="left">Skills 🔥</h2>
-  <a style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a target="_blank" style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </a>
-  <a style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <a target="_blank" style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="Icon CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="Icon JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    </a>
-  <a style="text-decoration: none;" href="https://nodejs.org/pt-br/docs/">
+  <a target="_blank" style="text-decoration: none;" href="https://nodejs.org/pt-br/docs/">
     <img align="center" alt="Icon NodeJS" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   </a>
-  <a style="text-decoration: none;" href="https://www.typescriptlang.org/docs/">
+  <a target="_blank" style="text-decoration: none;" href="https://www.typescriptlang.org/docs/">
     <img align="center" alt="Icon TypeScript" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   </a>
-  <a style="text-decoration: none;" href="https://pt-br.react.dev/">
+  <a target="_blank" style="text-decoration: none;" href="https://pt-br.react.dev/">
     <img align="center" alt="React" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </a>
-  <a style="text-decoration: none;" href="https://nextjs.org/">
+  <a target="_blank" style="text-decoration: none;" href="https://nextjs.org/">
     <img align="center" alt="Next" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   </a>
  </div>
