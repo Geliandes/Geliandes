@@ -20,10 +20,10 @@
   <a style="text-decoration: none;" href="https://www.typescriptlang.org/docs/">
     <img align="center" alt="Icon TypeScript" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   </a>
-  <a style="text-decoration: none;" href="https://pt-br.reactjs.org/docs/getting-started.html">
+  <a style="text-decoration: none;" href="https://pt-br.react.dev/">
     <img align="center" alt="React" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </a>
-  <a style="text-decoration: none;" href="[https://pt-br.reactjs.org/docs/getting-started.html](https://nextjs.org/)">
+  <a style="text-decoration: none;" href="https://nextjs.org/">
     <img align="center" alt="Next" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   </a>
  </div>
