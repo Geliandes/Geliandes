@@ -1,7 +1,18 @@
-  <div> <p align="left"><h2> Hi there, I'm Paulo Geliandes 👋 
-    <img align="right" alt="Tanjiro Kamado" height="215em" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"></h2>
-  🎓 Studying <b>Analysis and Systems Development</b> at <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
-  </p>
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h2 align="left" style="margin: 0;">
+        Hi there, I'm Paulo Geliandes 👋
+        <br />
+        🎓 Studying <b>Analysis and Systems Development</b> at
+        <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
+      </h2>
+      <img
+        alt="Tanjiro Kamado"
+        height="215"
+        src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"
+        style="margin-left: 20px;"
+      />
+    </div>
   </div>
 
   <div><h2 align="left">Skills 🔥</h2>
