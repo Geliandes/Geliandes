@@ -1,21 +1,10 @@
-  <div>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <h2 align="left" style="margin: 0;">
-        Hi there, I'm Paulo Geliandes 👋
-        <br />
-        🎓 Studying <b>Analysis and Systems Development</b> at
-        <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
-      </h2>
-      <img
-        alt="Tanjiro Kamado"
-        height="215"
-        src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"
-        style="margin-left: 20px;"
-      />
-    </div>
+  <div> <div align="left"><h2> Hi there, I'm Paulo Geliandes 👋 
+    <img align="right" alt="Tanjiro Kamado" height="215em" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"></h2>
+  🎓 Studying <b>Analysis and Systems Development</b> at <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
+  </p>
   </div>
 
-  <div><h2 align="left">Skills 🔥</h2>
+  <div align="left"><h2>Skills 🔥</h2>
   <a target="_blank" style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </a>
