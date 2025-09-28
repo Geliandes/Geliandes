@@ -1,10 +1,14 @@
-  <div> <div align="left"><h2> Hi there, I'm Paulo Geliandes 👋 
-    <img align="right" alt="Tanjiro Kamado" height="215em" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"></h2>
-  🎓 Studying <b>Analysis and Systems Development</b> at <b><a href="http://www.fatecsorocaba.edu.br/" target="_blank">FATEC-SO</a></b>
-  </p>
-  </div>
+<div align="center">
+  <h1>Hi there, I'm Paulo Geliandes 👋</h1>
+  <img align="right" alt="Tanjiro Kamado" height="200px" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif">
+  
+  🎓 Studying **Analysis and Systems Development** at **[FATEC-SO](http://www.fatecsorocaba.edu.br/)**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Geliandes&color=blue&style=flat)
+</div>
 
-  <div align="left"><h2>Skills 🔥</h2>
+<h2 align="center">Skills 🔥</h2>
+<div align="center">
   <a target="_blank" style="text-decoration: none;" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   </a>
@@ -28,20 +32,30 @@
   </a>
  </div>
  
-<h2 align="left">Stats 📊</h2>
- <div>
-  <a href="https://github.com/Geliandes">
+<h2 align="center">Stats 📊</h2>
+<div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Geliandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geliandes&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  
+</div>
 
-<div style="display: inline_block"><h2 align="left">Find me in 🌎</h2>
-  <a href="https://www.instagram.com/geliandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:geliandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulo-geliandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/geliandes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">	</a>
- 
- ![Snake animation](https://github.com/Geliandes/Geliandes/blob/main/cobrinha.svg)
- 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geliandes&theme=dark" alt="GitHub Streak"/>
+</div>
+
+
+<h2 align="center">Find me in 🌎</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-geliandes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:geliandes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/geliandes/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Geliandes/Geliandes/output/snake.svg" alt="Snake animation"/>
 </div>
