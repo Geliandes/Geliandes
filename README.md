@@ -54,5 +54,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Geliandes/Geliandes/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Geliandes/Geliandes/output/snake-dark.svg" alt="Snake animation"/>
 </div>
