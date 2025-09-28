@@ -2,10 +2,7 @@
   <h1>Hi there, I'm Paulo Geliandes 👋</h1>
   
   🎓 Studying **Analysis and Systems Development** at **[FATEC-SO](http://www.fatecsorocaba.edu.br/)**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Geliandes&color=blue&style=flat)
-  
-  <img alt="Tanjiro Kamado" height="200px" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif">
+
 </div>
 
 <h2 align="center">Skills 🔥</h2>
